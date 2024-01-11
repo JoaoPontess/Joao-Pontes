@@ -1,7 +1,9 @@
 
 <h1 align="center"> Sobre mim </h1>
 
-<p>![Screenshot_7](https://github.com/jhzinm/Joao-Pontes/assets/150977621/11731861-f68b-4621-af33-9481cced23e3)![Screenshot_8](https://github.com/jhzinm/Joao-Pontes/assets/150977621/27233d8c-b8a8-4d3c-a167-9d2cf8db2c5c)</p>
+
+![samsung-galaxy-s20-mockup](https://github.com/jhzinm/Joao-Pontes/assets/150977621/02ffc94d-08e9-4639-aa5a-1b77d52c86ef)
+![ipad-pro-mockup](https://github.com/jhzinm/Joao-Pontes/assets/150977621/774c0a0a-adf6-4a32-a24e-0b2670d96db9)
 
 
 📌 Descrição do Projeto:
