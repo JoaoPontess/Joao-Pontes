@@ -1,6 +1,7 @@
 
 <h1 align="center"> Sobre mim </h1>
 
+![Screenshot_7](https://github.com/jhzinm/Joao-Pontes/assets/150977621/11731861-f68b-4621-af33-9481cced23e3)
 ![Screenshot_8](https://github.com/jhzinm/Joao-Pontes/assets/150977621/27233d8c-b8a8-4d3c-a167-9d2cf8db2c5c)
 
 
